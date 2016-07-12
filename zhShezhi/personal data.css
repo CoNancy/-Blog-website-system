@@ -1,0 +1,139 @@
+*{
+	list-style: none;
+}
+.background-image{
+	margin-left: -10px;
+	width: 1368px;
+	height: 280px;
+	background-image: url(bg2.jpg);
+}
+.daohanglan{
+	width: 1368px;
+	height: 55px;
+	background-color: #F8F8F8;
+	margin-top: -10px; 
+	margin-left: -10px; 
+	font-family: sans-serif; 
+	line-height: 55px;
+}
+.daohanglan ul li:hover{
+	background-color: #eee;
+}
+.float{
+	float: left;
+}
+.size-l{
+	width: 300px;
+	margin-left: 100px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	margin-bottom: 100px;
+	line-height: 50px;
+}
+.size-r{
+	width: 700px;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-color: #ffffff;
+	margin-bottom: 100px;
+	line-height: 100px;
+}
+.link{
+	text-decoration: none;
+	color: black;
+}
+.size-rl{
+	margin-left: 200px;
+	margin-top: 100px;
+}
+.size-mid{
+	margin-left: 200px;
+}
+.size-low{
+	margin-top: 300px;
+	margin-left: 300px;
+	margin-bottom: 100px;
+}
+.bk{
+  	position: relative;
+  	border-bottom: 1px solid #e6e8e9;
+  	margin-bottom: -5px;
+  	margin-top: 2px;
+  	padding-left: 30px;
+  	padding-right: 200px;
+  	margin-left: 6px;
+}
+.size-in{
+	margin-top: -60px;
+}
+.size-aj{
+	margin-left: 110px;
+}
+.size-table{
+	margin-top: -2px;
+	margin-left: -3px;
+	margin-bottom: -3px;
+	margin-right: -3px;
+}
+.bk:hover{
+	border-left: 6px solid #ae1322;
+	text-indent: -6px;
+}
+.yangshi{
+	color: #777777; 
+	margin-left: 14px; 
+	margin-right: 14px;
+	margin-bottom: 14px;
+
+}
+
+
+
+
+.dropbtn {
+    background-color: #F8F8F8;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 150px;
+    min-height: 20px;
+    border-radius: 5px;
+    border:1px solid #ddd;
+    /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+}
+
+.dropdown-content a {
+	font-size: 15px;
+	/*text-align: center;*/
+	margin-left: 20px;
+	line-height: 32px;
+    color: black;
+    text-decoration: none;
+    display: block;
+    height: 32px;
+    /*border-bottom: 1px solid #ccc;*/
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #eeeeee;
+}

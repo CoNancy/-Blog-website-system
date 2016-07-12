@@ -1,0 +1,160 @@
+/*个人博客*/
+/*Home*/
+*{
+	font-family:"微软雅黑";
+}
+.row-type{
+	background-color: white;
+	/*line-height: 1.5;*/
+	/*font-size: 18px;*/
+	/*width: 1175px;*/
+	margin-left: 0px;
+	margin-top: 20px;
+}
+
+.body{
+	background-color: #eee;
+	/*width: 900px;*/
+	/*margin-left: 75px;*/
+}
+
+.masthead-type{
+	/*background-color: #428bca;*/
+	/*width: 100%;*/
+	/*color: white;*/
+}
+
+.header-type{
+	background:url(bg.jpg);
+	height: 307px;
+	margin-top: -30px;
+}
+
+.submit-type{
+	/*margin-left: 20px;*/
+	/*margin-bottom: 10px;*/
+	float: right;
+	margin-right: 300px;
+}
+.test{
+	margin:10px 0;
+	padding:10px;
+	border:1px solid #eee;
+	background-color:rgb(247,247,249);
+	border-radius:10px;
+	
+}
+.title{
+	font-size:26px;
+	margin-bottom:0px;
+    border-bottom:1px solid white;
+	
+}
+.author{
+	opacity:70%;
+	text-align:right;
+	margin:5px 0;
+}
+.content{
+	text-indent:2em;
+	height:5.5em;
+	overflow:hidden;
+}
+.open{
+	text-align:center;
+	color:#888;
+}
+.openl{
+	text-indent:2em;
+	overflow:visible;
+	
+}
+.closel{
+	text-indent:2em;
+	overflow:visible;
+	
+}
+
+.submit-type{
+	/*margin-left: 20px;*/
+	/*margin-bottom: 10px;*/
+	float: right;
+	margin-right: 450px;
+}
+
+.input-type{
+	height: 180px;
+	width: 677px;
+
+}
+
+.add-type{
+	float: left;
+	margin-left: 49px;
+	margin-right: 95px;
+}
+
+.personal-type{
+	float: right;
+	margin-top: 100px;
+	line-height: 20px;
+	/*height: 230px;*/
+}
+/*.line-height{
+	position: relative;
+	border-bottom: 1px solid #e6e8e9;
+	margin-bottom: -1px;
+}*/
+.line-type{
+	height: 1px;
+	margin-top: 12px;
+	width: 224px;
+    background: #d5d5d5;
+    margin-left: 883px;
+}
+
+.personaltext-type{
+	line-height: 20px;
+	margin-top: 50px;
+	/*margin-bottom: 200px;*/
+}
+
+.chichi-type{
+	/*text-decoration: line-through;*/
+}
+
+.li-type{
+	float: left;
+	margin-right: 20px;
+	font-size: 14px;
+}
+
+.line{
+	margin-bottom: 35px;	
+}
+
+.artical{
+	margin-left: 49px;
+	/*margin-top: 100px;*/
+}
+
+.delete-button{
+	height: 70px;
+	/*width: 584px;*/
+	
+}
+
+.artical-type{
+	/*float: left;*/
+	font-size: 18px;
+	height: 70px;
+	width: 584px;
+	text-align:left;
+	/*height: 30px;
+	width: 200px;*/
+
+}
+
+/*.tuijian{
+	margin-top: 100px;
+}*/

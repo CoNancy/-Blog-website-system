@@ -1,0 +1,81 @@
+/*Home*/
+*{
+	font-family:"微软雅黑";
+}
+.row-type{
+	background-color: white;
+	/*line-height: 1.5;*/
+	/*font-size: 18px;*/
+	width: 1175px;
+	/*margin-left: 20px;*/
+	margin-top: 20px;
+}
+
+.body{
+	background-color: #eee;
+	/*width: 900px;*/
+	/*margin-left: 75px;*/
+}
+
+.masthead-type{
+	/*background-color: #428bca;*/
+	/*width: 100%;*/
+	/*color: white;*/
+}
+
+.header-type{
+	background:url(bg.jpg);
+	height: 307px;
+	margin-top: -30px;
+}
+
+.submit-type{
+	/*margin-left: 20px;*/
+	/*margin-bottom: 10px;*/
+	float: right;
+	margin-right: 300px;
+}
+.test{
+	margin:10px 0;
+	padding:10px;
+	border:1px solid #eee;
+	background-color:rgb(247,247,249);
+	border-radius:10px;
+	
+}
+.title{
+	font-size:26px;
+	margin-bottom:0px;
+    border-bottom:1px solid white;
+	
+}
+.author{
+	opacity:70%;
+	text-align:right;
+	margin:5px 0;
+}
+.content{
+	text-indent:2em;
+	height:5.5em;
+	overflow:hidden;
+}
+.btn{
+	height:24px;
+	line-height:10px;
+	background-color:rgb(51,122,183);
+	color:white;
+}
+.open{
+	text-align:center;
+	color:#888;
+}
+.openl{
+	text-indent:2em;
+	overflow:visible;
+	
+}
+.closel{
+	text-indent:2em;
+	overflow:visible;
+	
+}

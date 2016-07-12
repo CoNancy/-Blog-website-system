@@ -1,0 +1,54 @@
+.background-type{
+	/*background-color: #eee;*/
+	background:url(1.jpg);
+	color: #666;
+}
+
+.form-type{
+	/*background-color: white;*/
+	height: 410px;
+	width: 354px;
+	float: right;
+	margin-right: 180px;
+	margin-top: 70px;
+	font-size: 20px;
+	line-height: 65px;
+	/*margin-left: 39px;*/
+}
+
+.input-type{
+	height: 28px;
+	width: 275px;
+	margin-top: 15px;
+}
+
+.input2-type{
+	height: 28px;
+	width: 275px;
+}
+
+.button-type{
+	height: 35px;
+	width: 65px;
+	font-size: 18px;
+}
+
+.login-type{
+	float: left;
+	margin-top: 120px;
+	margin-left: 109px;
+}
+
+.img-type{
+	height: 434px;
+	width: 600px;
+}
+
+.register-type{
+	font-size: 14px;
+	letter-spacing: 2px;
+}
+
+.button-type{
+	margin-top: 10px;
+}
